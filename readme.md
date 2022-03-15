@@ -1,6 +1,6 @@
 ## super project
 
-## Feature list
+## feature list
 * Feature 1
 * Feature 2
 * Feature 3
